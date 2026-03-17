@@ -2,10 +2,15 @@
 name: shared-versioning
 description: Reusable version-check module for SunX skills.
 metadata:
-  version: 1.10.0
+  version: 1.10.1
   author: SunX
 license: MIT
 ---
+
+## Changelog
+- `升级测试1`
+- `升级测试2`
+- `升级测试3`
 
 # Shared Versioning Module for SunX Skills
 
@@ -80,6 +85,7 @@ Run the checker from inside a skill directory:
 ```sh
 ../_shared/versioning/check_skill_version.sh ../_shared/versioning/version-check.conf ./SKILL.md
 ```
+
 
 ## Notes
 
