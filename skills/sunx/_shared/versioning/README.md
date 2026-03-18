@@ -2,7 +2,7 @@
 name: shared-versioning
 description: Reusable version-check module for SunX skills.
 metadata:
-  version: 1.10.1
+  version: 1.10.2
   author: SunX
 license: MIT
 ---
